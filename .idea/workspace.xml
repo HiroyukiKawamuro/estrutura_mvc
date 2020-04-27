@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac13cd04-b197-4949-81b6-8b28209dc18c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1b3P2lO6S6wW1MVCP0MvOm70WTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\CursoPHP\estrutura_mvc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/estrutura_mvc/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac13cd04-b197-4949-81b6-8b28209dc18c" name="Default Changelist" comment="" />
+      <created>1587857598393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587857598393</updated>
+      <workItem from="1587857600263" duration="742000" />
+      <workItem from="1587858361090" duration="4823000" />
+      <workItem from="1587865311472" duration="94000" />
+      <workItem from="1587909714674" duration="10597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1741" y="0" key="#PHP" timestamp="1587857785608">
+      <screen x="1366" y="0" width="1304" height="768" />
+    </state>
+    <state x="1741" y="0" key="#PHP/0.0.1304.768/1366.0.1304.768@1366.0.1304.768" timestamp="1587857785608" />
+    <state x="1472" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587857721221">
+      <screen x="1366" y="0" width="1304" height="768" />
+    </state>
+    <state x="1472" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768/1366.0.1304.768@1366.0.1304.768" timestamp="1587857721221" />
+    <state x="1852" y="315" key="NewPhpFileDialog" timestamp="1587932506024">
+      <screen x="1366" y="0" width="1304" height="768" />
+    </state>
+    <state x="1852" y="315" key="NewPhpFileDialog/0.0.1304.768/1366.0.1304.768@1366.0.1304.768" timestamp="1587932506024" />
+    <state x="1521" y="29" key="SettingsEditor" timestamp="1587862913881">
+      <screen x="1366" y="0" width="1304" height="768" />
+    </state>
+    <state x="1521" y="29" key="SettingsEditor/0.0.1304.768/1366.0.1304.768@1366.0.1304.768" timestamp="1587862913881" />
+    <state x="1726" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1587909750988">
+      <screen x="1366" y="0" width="1304" height="768" />
+    </state>
+    <state x="1726" y="211" key="com.intellij.ide.util.TipDialog/0.0.1304.768/1366.0.1304.768@1366.0.1304.768" timestamp="1587909750988" />
+  </component>
+</project>
